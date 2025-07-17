@@ -86,4 +86,7 @@ You can test with this sample CSV's: https://www.kaggle.com/datasets/philiphyde1
 4. If relevant, generates SQL and checks safety
 5. If safe, executes SQL and creates visualizations  
 6. Everything gets stored in MongoDB with smart categorization
-7. View history to see all past queries and results 
+7. View history to see all past queries and results
+
+## License
+MIT
