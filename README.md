@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/textsql-demo.mp4
 
 ## Test Data
 
-You can test with this sample CSV: [https://www.kaggle.com/datasets/philiphyde1/nfl-stats-1999-2022]
+You can test with this sample CSV's: https://www.kaggle.com/datasets/philiphyde1/nfl-stats-1999-2022
 
 ## Requirements
 
