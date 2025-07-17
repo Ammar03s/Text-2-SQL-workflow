@@ -20,7 +20,7 @@ All entries include metadata: timestamp, model used, relevance status, safety st
 
 ## Demo
 
-https://github.com/user-attachments/assets/textsql-demo.mp4
+[📹 Watch Demo Video](./Text2sql-demo.mp4)
 
 ## Features
 
