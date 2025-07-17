@@ -1,0 +1,8 @@
+streamlit
+SQLAlchemy
+langchain_core
+langchain_community
+langchain_ollama
+pymongo
+plotly
+sqlite3
